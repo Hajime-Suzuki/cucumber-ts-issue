@@ -1,0 +1,11 @@
+{
+  "events": {
+    "restart": "tput reset"
+  },
+  "ext": "ts,feature",
+  "ignore": [
+    "**/*.json",
+    "**/*.csv",
+    "**/*.html"
+  ]
+}
